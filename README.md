@@ -13,5 +13,5 @@ This dataset contains images of cigarette packs of different brands kept on vari
 
 I have used the **ShelfImages** folder for the training and testing of this model. I splitted the images of this folder in two different sub-folders, having names **train**, containing 283 images and **test**, containing 71 images. I have then zipped the **ShelfImages** folder and uploaded it in my google drive in a **yolov4** folder.
 
-Link to my **yolov4** in my google drive is given below:
+Link to my **yolov4** in my google drive:
 https://drive.google.com/drive/folders/1HkjUN-JPATAL7v4VFbb-NwHFPW0uQsqe?usp=sharing
